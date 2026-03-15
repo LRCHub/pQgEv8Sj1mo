@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "7月6日 / 重音テトSV",
+  "base_artist": "にほしか",
+  "createdAt": "2026-03-15T14:39:10.431473Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "7月6日",
+      "artist": "にほしか",
+      "has_synced": false,
+      "path": "select/pl_01_7月6日_にほしか.txt"
+    }
+  ]
+}
